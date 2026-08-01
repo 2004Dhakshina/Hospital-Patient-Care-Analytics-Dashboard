@@ -9,11 +9,11 @@ Evaluate patient satisfaction levels.
 Compare patient outcomes across states and genders.
 Identify healthcare trends for better resource planning.
 # Tools & Technologies
-Power BI
-Power Query
-DAX (Data Analysis Expressions)
-Data Modeling
-Microsoft Excel (Data Source)
+Power BI,
+Power Query,
+DAX (Data Analysis Expressions),
+Data Modeling,
+Microsoft Excel (Data Source).
 
 # KPI	Description
 | KPI                           | Description                                   |
