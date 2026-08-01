@@ -45,12 +45,12 @@ Overall patient outcome breakdown
 - Interactive Filters
 Users can dynamically filter the dashboard by: Year,Patient State,Medical Condition.
 # Key Insights
-Cancer recorded the highest overall treatment cost among all medical conditions.
-Heart Attack and Heart Disease showed the highest readmission rates.
-Recovery rates remained consistently high across the analyzed period.
-Monthly patient stay trends varied between male and female patients.
-Patient outcomes differed across states, highlighting regional healthcare variations.
-Interactive filtering enables detailed analysis by year, condition, and location.
+- Cancer recorded the highest overall treatment cost among all medical conditions.
+- Heart Attack and Heart Disease showed the highest readmission rates.
+- Recovery rates remained consistently high across the analyzed period.
+- Monthly patient stay trends varied between male and female patients.
+- Patient outcomes differed across states, highlighting regional healthcare variations.
+- Interactive filtering enables detailed analysis by year, condition, and location.
 # Dashboard Preview
 ![](https://github.com/2004Dhakshina/Hospital-Patient-Care-Analytics-Dashboard/blob/main/Dashboard.png)
 
@@ -58,20 +58,20 @@ Interactive filtering enables detailed analysis by year, condition, and location
 
 
 # Business Benefits
-Improves hospital performance monitoring.
-Supports data-driven healthcare decisions.
-Identifies high-cost treatments and readmission patterns.
-Enhances patient outcome analysis.
-Helps optimize healthcare resource allocation.
-Provides executive-level insights through interactive visualizations.
+- Improves hospital performance monitoring.
+- Supports data-driven healthcare decisions.
+- Identifies high-cost treatments and readmission patterns.
+- Enhances patient outcome analysis.
+- Helps optimize healthcare resource allocation.
+- Provides executive-level insights through interactive visualizations.
 # Skills Demonstrated
-Power BI Dashboard Development
-Data Cleaning
-Data Modeling
-Power Query
-DAX
-Data Visualization
-KPI Reporting
-Healthcare Analytics
-Interactive Dashboard Design
-Business Intelligence
+- Power BI Dashboard Development
+- Data Cleaning
+- Data Modeling
+- Power Query
+- DAX
+- Data Visualization
+- KPI Reporting
+- Healthcare Analytics
+- Interactive Dashboard Design
+- Business Intelligence
