@@ -43,11 +43,7 @@ Gender-wise comparison of hospitalization duration
 Recovery rate comparison by gender
 Overall patient outcome breakdown
 - Interactive Filters
-Users can dynamically filter the dashboard by:
-
-Year
-Patient State
-Medical Condition
+Users can dynamically filter the dashboard by: Year,Patient State,Medical Condition.
 # Key Insights
 Cancer recorded the highest overall treatment cost among all medical conditions.
 Heart Attack and Heart Disease showed the highest readmission rates.
