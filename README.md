@@ -16,30 +16,33 @@ Data Modeling
 Microsoft Excel (Data Source)
 
 # KPI	Description
-Total Treatment Cost	Overall treatment expenditure
-Readmission Rate	Percentage of patients readmitted
-Average Length of Stay	Average hospitalization duration
-Recovery Rate	Percentage of successfully recovered patients
-Average Patient Satisfaction	Overall patient satisfaction score
+| KPI                           | Description                                   |
+| ----------------------------- | --------------------------------------------- |
+|  Total Treatment Cost         | Overall treatment expenditure                 |
+|  Readmission Rate             | Percentage of patients readmitted             |
+|  Average Length of Stay       | Average hospitalization duration              |
+|  Recovery Rate                | Percentage of successfully recovered patients |
+|  Average Patient Satisfaction | Overall patient satisfaction score            |
+
 # Dashboard Features
-  # Treatment Cost Analysis
+--Treatment Cost Analysis
 Total treatment cost by medical condition
 Comparison of treatment expenses across diseases
 Identification of high-cost medical conditions
-  # Readmission Analysis
+--Readmission Analysis
 Readmission rate by medical condition
 Highlights conditions with higher readmission risks
-  # Patient Outcome Analysis
+--Patient Outcome Analysis
 State-wise patient outcomes
 Gender-wise patient distribution
 Recovery and stable patient comparison
-  # Length of Stay Analysis
+--Length of Stay Analysis
 Monthly trend of average hospital stay
 Gender-wise comparison of hospitalization duration
-  # Recovery Analysis
+--Recovery Analysis
 Recovery rate comparison by gender
 Overall patient outcome breakdown
-  # Interactive Filters
+--Interactive Filters
 Users can dynamically filter the dashboard by:
 
 Year
